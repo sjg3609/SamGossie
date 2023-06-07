@@ -27,7 +27,7 @@ Hey everyone, my name is Sam! I am currently enrolled in the Full Stack Software
 <h3 align="center">Interests</h3>
 <hr />
 <p align="center">
-💻  <b>Full Stack Development</b> &nbsp;&bull;&nbsp; 🏈 <b>Sports</b> &nbsp;&bull;&nbsp; 🎮 <b>Video Games</b> 🐈 <b>Cats</b>
+💻  <b>Full Stack Development</b> &nbsp;&bull;&nbsp; 🏈 <b>Sports</b> &nbsp;&bull;&nbsp; 🎮 <b>Video Games</b> &nbsp;&bull;&nbsp; 🐈 <b>Cats</b>
 <br />
 <!--------------------- Technologies ---------------------->
 <h3 align="center">Technologies</h3>

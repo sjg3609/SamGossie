@@ -30,7 +30,6 @@ Hey everyone, my name is Sam! I am currently enrolled in the Full Stack Software
 <hr />
 <!--------------------- Technologies ---------------------->
 <h3 align="center">Technologies</h3>
-<hr />
 <!--------------------- Frontend ---------------------->
 <h4 align="center">Frontend</h4>
 <p align="center">

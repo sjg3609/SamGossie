@@ -23,6 +23,7 @@
 Hey everyone, my name is Sam! I am currently enrolled in the Full Stack Software Engineering course at Prime Digital Academy and will be graduating by July 18th, 2023. I am excited to become a part of the tech industry and I appreciate having so many opportunities in the past year to learn and grow in this community. Coding is quickly becoming one of my life's passions and I love sharing what I've made so far with others.
 </p>
 <br />
+<hr />
 <!--------------------- Interests ---------------------->
 <h3 align="center">Interests</h3>
 <p align="center">

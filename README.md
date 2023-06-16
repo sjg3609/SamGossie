@@ -1,5 +1,5 @@
 <!--------------------- Intro ---------------------->
-<h2 align="center">Hello and welcome to Sam Gossie's Github page!</h2>
+<h2 align="center">Hello! My name is Sam Gossie, and welcome to my Github page!</h2>
 
 <!--------------------- Links ---------------------->
 <p align="center">
